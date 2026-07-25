@@ -1,0 +1,24 @@
+{
+  "title": "llm-red-team-playbook",
+  "description": "A practical LLM/agent red-team playbook (EN+TR) with an OWASP LLM Top 10 test matrix.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "red teaming",
+    "playbook",
+    "OWASP"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "access_right": "open",
+  "publication_type": "report"
+}
