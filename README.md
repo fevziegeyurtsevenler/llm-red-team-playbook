@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="llm-red-team-playbook" width="100%"></p>
+
 # LLM & Agent Red-Team Playbook
 
 <p align="center">
