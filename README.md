@@ -334,3 +334,21 @@ Katkı olarak en değerlisi: yeni denemeler, ATLAS eşleme düzeltmeleri, İngil
 [Apache-2.0](LICENSE) © Fevzi Ege Yurtsevenler
 
 <sub>A living, community-maintained playbook for authorized LLM/agent red-teaming. Not affiliated with OWASP or MITRE; it maps to their public frameworks. If it made your next assessment sharper, a ⭐ helps others find it. · Yetkili LLM/ajan red-team testleri için yaşayan bir oyun kitabı.</sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [AI Red Teaming Playbook: Bir LLM Uygulaması Nasıl Test Edilir?](https://altaysec.com.tr/arastirmalar/ai-red-teaming-playbook-llm-uygulama-testi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_llm_red_team_playbook_2026,
+  author = {{AltaySec}},
+  title  = {llm-red-team-playbook},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/llm-red-team-playbook}
+}
+```
